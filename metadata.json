@@ -1,0 +1,6 @@
+{
+  "name": "Optimism Lending - USDC DeFi Credit Platform",
+  "description": "Decentralized USDC lending protocol on Optimism featuring transparent wallet evaluation, collateralized loans, real-time repayment countdowns, and administrator controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
